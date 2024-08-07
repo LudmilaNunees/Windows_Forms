@@ -1,0 +1,5 @@
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\teste\obj\Debug\Projeto_6.Form1.resources
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
